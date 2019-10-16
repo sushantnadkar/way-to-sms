@@ -1,0 +1,10 @@
+{
+    "send_message_url" : "https://www.way2sms.com/api/v1/sendCampaign",
+    "report_url" : "https://www.way2sms.com/api/v1/apireports",
+    "stage_api_key" : "XXXXXXXX",
+    "stage_api_secret" : "XXXXXXXX",
+    "prod_api_key" : "XXXXXXXX",
+    "prod_api_secret" : "XXXXXXXX",
+    "sender_id" : "SENDID",
+    "text_message" : "Text message to send"
+}
